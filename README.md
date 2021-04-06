@@ -1,7 +1,4 @@
 # Support-Vector-Machines
-SVM and Grid Search using Python
-
-
 SVMs are Supervised Learning models with associated learning algorithms analyze data and recognize patterns, used for classification and regression analysis. 
 
 It is non-probablistic binary linear classifier. Given a set of training example, each marked for belonging to one of two categories, an SVM training algorithm builds a model that assigns new examples into one category or the other. 
